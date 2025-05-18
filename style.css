@@ -42,7 +42,7 @@ body {
 
 .btn-green {
   background: #66bb6a;
-  padding: 100px 100px;
+  padding: 50px 50px;
   border-radius: 4px;
   color: white;
   text-decoration: none;
@@ -50,7 +50,7 @@ body {
 
 .btn-yellow {
   background: #fbc02d;
-  padding: 100px 100px;
+  padding: 70px 80px;
   border-radius: 4px;
   color: #333;
   text-decoration: none;
